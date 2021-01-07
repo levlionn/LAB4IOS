@@ -2,18 +2,19 @@
   "ticketsData": [
     { 
       "type": "Balcony Level",
-      "quantity": 1,
-      "price": 2000,
+      "price": 1170,
+      "inventory": 12,
+     
     },
     { 
       "type": "Lower Level",
-      "quantity": 2,
-      "price": 10000,
+     "price": 10434,
+      "inventory": 20,
     },
     { 
       "type": "Courtside",
-      "quantity": 3,
-      "price": 30000,
+      "price": 27777,
+      "inventory": 15,
     },
   ]
 }
