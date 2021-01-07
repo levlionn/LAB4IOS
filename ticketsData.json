@@ -1,0 +1,19 @@
+{
+  "ticketsData": [
+    { 
+      "type": "Balcony Level",
+      "quantity": 12,
+      "price": 2000,
+    },
+    { 
+      "type": "Lower Level",
+      "quantity": 20,
+      "price": 10000,
+    },
+    { 
+      "type": "Courtside",
+      "quantity": 15,
+      "price": 30000,
+    },
+  ]
+}
