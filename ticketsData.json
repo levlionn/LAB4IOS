@@ -1,5 +1,5 @@
 {
-  [
+  "data": [
     { 
       "type": "Balcony Level",
       "price": 1170,
@@ -8,7 +8,7 @@
     },
     { 
       "type": "Lower Level",
-     "price": 10434,
+      "price": 10434,
       "inventory": 20,
     },
     { 
